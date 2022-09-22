@@ -1,3 +1,5 @@
+package src;
+
 public class Product {
     private String name = "Kahve Makinesi";
     private double unitPrice;
