@@ -1,4 +1,4 @@
-package src;
+
 
 public class IndividualCustomer extends Customer {
     private String firstName;
